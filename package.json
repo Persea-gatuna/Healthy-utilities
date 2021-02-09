@@ -6,8 +6,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "bufferutil": "^4.0.3",
     "discord.js": "^12.5.1",
@@ -17,6 +15,5 @@
     "mongoose": "^5.11.15",
     "utf-8-validate": "^5.0.4",
     "zlib-sync": "^0.1.7"
-  },
-  "devDependencies": {}
+  }
 }
