@@ -1,7 +1,0 @@
-module.exports = {
-    name: "",
-    aliases: [""],
-    execute: async (message, args, client) => {
-        // Code goes here
-    },
-};
